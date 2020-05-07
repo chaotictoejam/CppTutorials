@@ -12,13 +12,13 @@ https://youtu.be/HFqQo4KhRvE
 
 ## Part 2
 
-In this part you will leanr how to declare variables, read inputs from the terminal, and how to write methods.
+In this part you will learn how to declare variables, read inputs from the terminal, and how to write methods.
 
 https://youtu.be/vgfhuHcdsqY
 
 ## Part 3
 
-In this part you will learn how to work with conditionals, if statements, and ternary operators.
+In this part you will learn how to work with conditionals, if statements, and ternary operators. You will also learn how to generate a random number in C++.
 
 https://youtu.be/XLeXsgZYRnY
 
@@ -30,6 +30,14 @@ https://youtu.be/VQ69Sq6YRhE
 
 ## Part 5
 
-In this part you will leanr about pointers. You will learn how pointers work, how to work with pointers, how to use them in methods, and how to dynamically allocate and deallocate memory. 
+In this part you will learn about pointers. You will learn how pointers work, how to work with pointers, how to use them in methods, and how to dynamically allocate and deallocate memory. 
 
 https://youtu.be/-ZlOpV_BtWc
+
+## Part 6
+
+In this part you will learn how to work with single dimensional arrays.
+
+## Part 7
+
+In this part you will learn how to work with multi-dimensional arrays.
