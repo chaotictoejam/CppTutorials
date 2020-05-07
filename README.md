@@ -8,18 +8,28 @@ This series reviews the fundamentals of the C++ language.
 
 Reviews how to set up your development environment and shows you how to write your first C++ program "Hello World"
 
+https://youtu.be/HFqQo4KhRvE
+
 ## Part 2
 
 In this part you will leanr how to declare variables, read inputs from the terminal, and how to write methods.
+
+https://youtu.be/vgfhuHcdsqY
 
 ## Part 3
 
 In this part you will learn how to work with conditionals, if statements, and ternary operators.
 
+https://youtu.be/XLeXsgZYRnY
+
 ## Part 4
 
 In this part you will learn how to work with loops, specifically you will learn about for loops and while loops. We will finish with writing a small program illustrating the use of while loops.
 
+https://youtu.be/VQ69Sq6YRhE
+
 ## Part 5
 
-In this part you will leanr about pointers. You will leanr how pointers work, how to work with pointers, how to use them in methods, and how to dynamically allocate and deallocate memory. 
+In this part you will leanr about pointers. You will learn how pointers work, how to work with pointers, how to use them in methods, and how to dynamically allocate and deallocate memory. 
+
+https://youtu.be/-ZlOpV_BtWc
