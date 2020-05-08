@@ -38,6 +38,8 @@ https://youtu.be/-ZlOpV_BtWc
 
 In this part you will learn how to work with single dimensional arrays.
 
+https://youtu.be/QJkZ40rA0vM
+
 ## Part 7
 
 In this part you will learn how to work with multi-dimensional arrays.
