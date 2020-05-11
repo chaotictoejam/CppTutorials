@@ -45,3 +45,9 @@ https://youtu.be/QJkZ40rA0vM
 In this part you will learn how to work with multi-dimensional arrays. You will learn how to declare a two-dimensional array and a pointer of pointers, how to pass them as parameters, and how to properly deallocate memory.
 
 https://youtu.be/UdzDSzx8Cvw
+
+## Part 8
+
+In this part you will learn what puts the ++ in C++. (Classes and objects in C++)
+
+https://youtu.be/Y3QzN66yZDI
