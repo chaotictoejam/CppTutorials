@@ -14,5 +14,10 @@ This folder holds files to different pointer tutorials
 
 ### Copy Constructor
 
-This will go over how and when to use copy constructors in C++.
+This video will go over how and when to use copy constructors in C++.
 https://youtu.be/JEImJ7wclMY
+
+### Destructor
+
+This video will show you how to use and write your own custom destructor in C++.
+https://youtu.be/t1j_qH9tJzw
